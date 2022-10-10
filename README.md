@@ -1,2 +1,3 @@
-# G12-ICT201A-Csharp
-C#
+# Grade 12 C# Projects
+> Files
+- Loop Calculator
